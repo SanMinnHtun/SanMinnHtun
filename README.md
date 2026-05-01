@@ -13,22 +13,6 @@
 ## 🚀 About Me
 
 Starting from Zero.
-
-## 💼 Current Work
-
-<div align="left">
-
-- 🔭 I'm currently working on **Royal Classico FC Official Website**
-
-</div>
-
-## 📚 Learning & Knowledge
-
-<div align="left">
-
-- 🌱 I'm currently learning **to contribute to ML and AI Development**
-
-</div>
 ### 
 
 ## 🎓 Education
