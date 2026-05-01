@@ -1,16 +1,112 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://www.vecteezy.com/vector-art/2292582-elegant-black-and-gold-banner-background" alt="Profile Banner" width="100%" />
+</div>
 
-<!--
-**SanMinnHtun/SanMinnHtun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi 👋, I'm San Minn Htun
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A passionate developer from Myanmar.
+
+</div>
+
+## 🚀 About Me
+
+Start from Zero.
+
+## 💼 Current Work
+
+<div align="left">
+
+- 🔭 I'm currently working on **Royal Classico FC Official Website**
+
+</div>
+
+## 📚 Learning & Knowledge
+
+<div align="left">
+
+- 🌱 I'm currently learning **to contribute to ML and AI Development**
+
+</div>
+
+## 🚀 Projects
+
+| Project | Description | Links |
+|---|---|---|
+|  |  |  |
+
+### 
+
+## 🎓 Education
+
+| Institution | Degree | Duration |
+|---|---|---|
+| Kyaukse Technological University | B.E CEIT | 2022-11 -  |
+
+### B.E CEIT in Computer Engineering and Information Technology
+*Kyaukse Technological University*
+
+An enthusiastic learner
+
+## 📞 Contact & Links
+
+<div align="left">
+
+- 📫 How to reach me **minnhtunsan2@gmail.com**
+
+</div>
+
+## ⚡ Fun Fact
+
+<div align="center">
+
+*My sudden energy burst give me unbelievable results.*
+
+</div>
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 💻 Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 💻 Backend Development
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### 💻 AI/ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;&nbsp;&nbsp;![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;&nbsp;&nbsp;![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)&nbsp;&nbsp;&nbsp;![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 💻 Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 💻 DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;&nbsp;&nbsp;![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 💻 Software
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;&nbsp;&nbsp;![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 💻 Other
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+<div align="center">
+
+### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+**Thank you for visiting my profile! 😊**
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
+
+</div>
