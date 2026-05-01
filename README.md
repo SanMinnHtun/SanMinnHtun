@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://www.vecteezy.com/vector-art/2292582-elegant-black-and-gold-banner-background" alt="Profile Banner" width="100%" />
-</div>
-
-<div align="center">
 
 # Hi 👋, I'm San Minn Htun
 
