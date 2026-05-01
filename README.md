@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Start from Zero.
+Starting from Zero.
 
 ## 💼 Current Work
 
@@ -29,13 +29,6 @@ Start from Zero.
 - 🌱 I'm currently learning **to contribute to ML and AI Development**
 
 </div>
-
-## 🚀 Projects
-
-| Project | Description | Links |
-|---|---|---|
-|  |  |  |
-
 ### 
 
 ## 🎓 Education
@@ -49,7 +42,7 @@ Start from Zero.
 
 An enthusiastic learner
 
-## 📞 Contact & Links
+📞 Contact & Links
 
 <div align="left">
 
