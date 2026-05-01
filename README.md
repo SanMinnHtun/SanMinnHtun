@@ -17,10 +17,6 @@ Starting from Zero.
 
 ## 🎓 Education
 
-| Institution | Degree | Duration |
-|---|---|---|
-| Kyaukse Technological University | B.E CEIT | 2022-11 -  |
-
 ### B.E CEIT in Computer Engineering and Information Technology
 *Kyaukse Technological University*
 
