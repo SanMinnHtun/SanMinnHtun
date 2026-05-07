@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Starting from Zero.
+zero to HERO.
 ### 
 
 ## 🎓 Education
