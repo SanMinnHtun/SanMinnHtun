@@ -2,7 +2,7 @@
 
 # Hello World!
 
-### A passionate developer from Myanmar.
+### I am a passionate developer from Myanmar.
 
 </div>
 
