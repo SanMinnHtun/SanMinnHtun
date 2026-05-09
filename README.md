@@ -23,6 +23,7 @@ An enthusiastic learner
 <div align="left">
 
 - 📫 How to reach me **minnhtunsan2@gmail.com**
+- LinkedIN **www.linkedin.com/in/san-minn-htun**
 
 </div>
 
