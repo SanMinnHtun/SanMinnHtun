@@ -1,4 +1,4 @@
-<div align="center">
+<img width="120" height="130" alt="image" src="https://github.com/user-attachments/assets/91df53d4-9d48-40f2-8dab-ebd79b1dac8a" /><div align="center">
 
 # Hello!
 
@@ -44,7 +44,8 @@ An enthusiastic learner
 ### 💻 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JAVASCRIPT?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript]<img width="120" height="130" alt="image" src="https://github.com/user-attachments/assets/bf38416f-0694-436c-9c69-1f0043a82771" />
+
 
 ### 💻 Backend Development
 
