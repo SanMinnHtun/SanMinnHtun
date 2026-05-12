@@ -4,7 +4,7 @@
 #An anthusiastic developer under your service.
 
 
-### I am a passionate developer from Myanmar.
+### I am a passionate developer.
 
 </div>
 
