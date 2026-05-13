@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello , Mate!
-#An anthusiastic developer under your service.
+#A friendly software developer in your neighborhood.
 
 
 ### I am a passionate developer.
