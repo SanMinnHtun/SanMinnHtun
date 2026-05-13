@@ -1,10 +1,10 @@
 <div align="center">
 
 # Hello , Mate!
-#A friendly software developer in your neighborhood.
+# A friendly software developer in your neighborhood.
 
 
-### I am a passionate developer.
+
 
 </div>
 
