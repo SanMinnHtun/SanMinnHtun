@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-zero to HERO.
+Kindness is the real punk rocker.
 ### 
 
 ## 🎓 Education
