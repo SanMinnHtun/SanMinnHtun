@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello , Mate!
+# Hello!
 # A friendly software developer in your neighborhood.
 
 
