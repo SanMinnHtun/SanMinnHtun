@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Kindness is the real punk rocker.
+Pure kindness is the real punk rocker.
 ### 
 
 ## 🎓 Education
