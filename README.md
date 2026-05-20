@@ -18,7 +18,7 @@ Pure kindness is the real punk rocker.
 ### B.E CEIT in Computer Engineering and Information Technology
 *Kyaukse Technological University*
 
-An enthusiastic learner
+An enthusiastic learner.
 
 📞 Contact & Links
 
