@@ -29,7 +29,7 @@ An enthusiastic learner.
 
 </div>
 
-## ⚡ Fun Fact
+### ⚡ Fun Fact
 
 <div align="center">
 
