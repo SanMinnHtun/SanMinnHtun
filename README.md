@@ -39,7 +39,7 @@
 <div align="center">
 </div>
 
-## 🛠️ Skills & Technologies
+### 🛠️ Skills & Technologies
 
 #### 💻 Programming Languages
 
