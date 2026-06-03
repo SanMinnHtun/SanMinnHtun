@@ -10,7 +10,7 @@
 
 ## 🚀About Me
 
-## Quote
+### Quote
 #### Pure kindness is the real punk rocker. #### 
 
 ### 🎓 Education
