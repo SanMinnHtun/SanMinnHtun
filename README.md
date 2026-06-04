@@ -15,7 +15,7 @@
 
 ### 🎓 Education
 
-### B.E CEIT in Computer Engineering and Information Technology
+#### B.E CEIT in Computer Engineering and Information Technology
 *Kyaukse Technological University*
 
 ### An enthusiastic learner.
