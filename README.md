@@ -49,6 +49,8 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <img  alt="image" src="https://github.com/user-attachments/assets/bf38416f-0694-436c-9c69-1f0043a82771" />
+![TailwindCSS](https://shields.io)
+
 
 
 #### 💻 Backend Development
