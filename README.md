@@ -1,7 +1,7 @@
 #### <div align="center"> ####
 
 ### Hello!!!
-### A friendly Software developer/AI Developer in your neighborhood!!!.
+### A friendly Software Developer/AI Developer in your neighborhood!!!.
 
 
 
