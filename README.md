@@ -1,4 +1,4 @@
- <div align="center"> ####
+ <div align="center">
 
 ### Hello!!!
 ### A friendly Software Developer/AI Developer in your neighborhood!!!.
