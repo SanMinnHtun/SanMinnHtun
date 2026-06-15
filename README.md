@@ -8,7 +8,7 @@
 
 ### </div>
 
-## 🚀About Me
+### 🚀About Me
 
 ## My Quote
 #### Pure kindness is the real punk rocker. #### 
