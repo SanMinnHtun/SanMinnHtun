@@ -13,7 +13,7 @@
 ### My Quote
 #### Pure kindness is the real punk rocker. #### 
 
-### 🎓 Education ###
+## 🎓 Education ##
 
 #### B.E CEIT in Computer Engineering and Information Technology
 **Kyaukse Technological University**
