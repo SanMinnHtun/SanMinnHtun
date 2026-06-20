@@ -1,4 +1,5 @@
-<div align="right">
+<div align="left
+">
 
 ### Hello!!
 ### A friendly Software & AI Developer in your neighborhood!!
