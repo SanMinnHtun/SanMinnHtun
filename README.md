@@ -40,7 +40,7 @@
   ////
 </div>
 
-### 🛠️ Skills & Tech Stacks
+### 🛠️Skills & Tech Stacks
 
 #### 💻 Programming Languages
 
