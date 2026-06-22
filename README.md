@@ -11,7 +11,7 @@
 ## 🚀About Me
 
 ### My Quote
-#### Pure kindness is the real punk rocker. #### 
+### Pure kindness is the real punk rocker. #### 
 
 ## 🎓Education ##
 
