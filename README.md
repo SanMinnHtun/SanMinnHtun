@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
 
 ## Hello!!!
 ### A friendly Software & AI Developer in your neighborhood!!!
