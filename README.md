@@ -30,7 +30,7 @@
 
 <div align="center">
 
-*My sudden energy burst give me unbelievable results.**
+*My sudden energy burst give me unbelievable results.*
 
 </div>
 <div align="center">
