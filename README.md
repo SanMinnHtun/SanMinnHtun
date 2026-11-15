@@ -3,7 +3,7 @@
 ## Hello!!!
 ### A friendly Software & AI Developer in your neighborhood!!!
 
-Portfolio - https://sanminnhtu-dev.vercel.app/
+https://sanminnhtun-portfolio.vercel.app/
 
 </div>
 🚀About Me
